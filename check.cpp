@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 int main()
-{
-    cout<<" hello world";
+{ 
+    int name;
+    cin>>name;
+    cout<<name;
 }
